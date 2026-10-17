@@ -41,6 +41,6 @@ Backend environment variables: DB_URL, DB_USERNAME, DB_PASSWORD, JWT_SECRET, COR
 Frontend: set VITE_API_URL=https://YOUR-BACKEND-URL/api before `npm run build`.
 Backend ships a Dockerfile (Backend/demo/Dockerfile). Frontend has _redirects (Netlify) and vercel.json (Vercel) for React Router.
 
-![Remainder](docs/screenshots/Remainders.png)
+
 
 
